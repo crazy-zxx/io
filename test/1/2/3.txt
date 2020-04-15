@@ -1,0 +1,3 @@
+小结
+ZipInputStream可以读取zip格式的流，ZipOutputStream可以把多份数据写入zip包；
+配合FileInputStream和FileOutputStream就可以读写zip文件。
